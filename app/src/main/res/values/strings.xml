@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space app</string>
+    <string name="art1_name">Poker Game</string>
+    <string name="art1_desc">Cassius Coolidge(1894)</string>
+    <string name="art2_name">The Scream</string>
+    <string name="art2_desc">Edvard Munch(1893)</string>
+    <string name="art3_name">The Starry Night</string>
+    <string name="art3_desc">Vincent van Gogh(1889)</string>
+    <string name="art4_name">Guernica</string>
+    <string name="art4_desc">Picasso</string>
+    <string name="art5_name">Girl with a Pearl Earring</string>
+    <string name="art5_desc">Johannes Vermeer</string>
+    <string name="buttonPrevious">Previous</string>
+    <string name="buttonNext">Next</string>
+</resources>
